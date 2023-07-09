@@ -1,3 +1,27 @@
+.mainCounter{
+    background: black;
+    text-align: center;
+}
+.mainCounter div{
+    display: inline-block;
+    font-size: 70px;
+    line-height: 70px;
+    background: #101010;
+    color: white;
+    padding: 10px;
+    margin: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 /* 
 
